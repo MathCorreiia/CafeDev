@@ -187,7 +187,7 @@ section{
 
 
 .menu .box-container .box:hover{
-    background-color: #fff;
+    background-color:lightgray;
 }
 
 .menu .box-container .box:hover>*{
